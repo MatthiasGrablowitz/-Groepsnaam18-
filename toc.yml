@@ -59,5 +59,9 @@ project:
       - title: Druk
         children:
           - file: Content/Labs/druksensorijken.ipynb
-          - file: Content/Labs/pV_diagram.ipynb
-          - file: Content?Labs/ballonproef.ipynb
+          # - file: Content/Labs/pV_diagram.ipynb
+          - file: Content/Labs/ballonproef.ipynb
+      
+      # - title: Faseovergangen
+      #   children:
+      #     -file: Content/Labs/Verdamping.ipynb 
